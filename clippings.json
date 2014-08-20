@@ -1,43 +1,43 @@
 [
 
   { 
-    date: "2014-08-14",
-    publication: "",
-    author: "",
-    title: "",
-    uri: "",
-    bitly: "http://bit.ly/",
-    lang: "en"
+    "date": "2014-08-14",
+    "publication": "",
+    "author": "",
+    "title": "",
+    "uri": "",
+    "bitly": "http://bit.ly/",
+    "lang": "en"
   },
 
   { 
-    date: "2014-06-25",
-    publication: "RT America",
-    author: "Ameera David",
-    title: "Old cellphones turned into rainforest protectors",
-    uri: "https://www.youtube.com/watch?v=bT_laYJLsHc",
-    bitly: "http://bit.ly/1rraEgo",
-    lang: "en"
+    "date": "2014-06-25",
+    "publication": "RT America",
+    "author": "Ameera David",
+    "title": "Old cellphones turned into rainforest protectors",
+    "uri": "https://www.youtube.com/watch?v=bT_laYJLsHc",
+    "bitly": "http://bit.ly/1rraEgo",
+    "lang": "en"
   },
 
   { 
-    date: "2014-08-14",
-    publication: "We Demain",
-    author: "Elisabeth Denys",
-    title: "Des smartphones pour lutter contre la déforestation",
-    uri: "http://www.wedemain.fr/Des-smartphones-pour-lutter-contre-la-deforestation_a610.html",
-    bitly: "http://bit.ly/XAFfOS",
-    lang: "fr"
+    "date": "2014-08-14",
+    "publication": "We Demain",
+    "author": "Elisabeth Denys",
+    "title": "Des smartphones pour lutter contre la déforestation",
+    "uri": "http://www.wedemain.fr/Des-smartphones-pour-lutter-contre-la-deforestation_a610.html",
+    "bitly": "http://bit.ly/XAFfOS",
+    "lang": "fr"
   },
 
   { 
-    date: "2014-08-19",
-    publication: "newmanity",
-    author: "",
-    title: "Lutter contre la déforestation grâce au recyclage de vieux portables!",
-    uri: "http://www.newmanity.com/newsflow/819",
-    bitly: "http://bit.ly/1sV0s2U",
-    lang: "fr"
+    "date": "2014-08-19",
+    "publication": "newmanity",
+    "author": "",
+    "title": "Lutter contre la déforestation grâce au recyclage de vieux portables!",
+    "uri": "http://www.newmanity.com/newsflow/819",
+    "bitly": "http://bit.ly/1sV0s2U",
+    "lang": "fr"
   },
 
 {}]
