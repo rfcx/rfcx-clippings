@@ -6,8 +6,50 @@
     "author": "",
     "title": "",
     "uri": "",
-    "bitly": "http://bit.ly/",
-    "lang": "en"
+    "bitly": "http://bit.ly/___",
+    "lang": "en/fr/de",
+    "types": ["article","video","audio"],
+    "categories": [""]
+  },
+
+
+
+  { 
+    "date": "2014-07-15",
+    "publication": "Marketplace Tech",
+    "author": "Noel King",
+    "title": "Cellphones as logging detectors",
+    "uri": "http://www.marketplace.org/topics/tech/cellphones-logging-detectors",
+    "bitly": "http://r-f.cx/1pLpVJH",
+    "lang": "en",
+    "types": ["article","audio"],
+    "categories": [""]
+  },
+
+
+  { 
+    "date": "2014-07-16",
+    "publication": "Earth911",
+    "author": "Justin Gammill",
+    "title": "Androids Saving the Rainforests",
+    "uri": "http://www.earth911.com/tech/androids-saving-rainforests/",
+    "bitly": "http://bit.ly/1oIF89B",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+  { 
+    "date": "2014-08-16",
+    "publication": "RTL NOW",
+    "author": "",
+    "title": "RTL Aktuell, Rainforest Connection",
+    "uri": "https://www.youtube.com/watch?v=u28nP2xSXTA",
+    "bitly": "http://bit.ly/XAHly5",
+    "lang": "de",
+    "types": ["video"],
+    "categories": [""]
   },
 
   { 
@@ -17,7 +59,9 @@
     "title": "Old cellphones turned into rainforest protectors",
     "uri": "https://www.youtube.com/watch?v=bT_laYJLsHc",
     "bitly": "http://bit.ly/1rraEgo",
-    "lang": "en"
+    "lang": "en",
+    "types": ["video"],
+    "categories": [""]
   },
 
   { 
@@ -27,7 +71,9 @@
     "title": "Des smartphones pour lutter contre la déforestation",
     "uri": "http://www.wedemain.fr/Des-smartphones-pour-lutter-contre-la-deforestation_a610.html",
     "bitly": "http://bit.ly/XAFfOS",
-    "lang": "fr"
+    "lang": "fr",
+    "types": ["article"],
+    "categories": [""]
   },
 
   { 
@@ -37,7 +83,9 @@
     "title": "Lutter contre la déforestation grâce au recyclage de vieux portables!",
     "uri": "http://www.newmanity.com/newsflow/819",
     "bitly": "http://bit.ly/1sV0s2U",
-    "lang": "fr"
+    "lang": "fr",
+    "types": ["article"],
+    "categories": [""]
   },
 
 {}]
