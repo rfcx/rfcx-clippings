@@ -11,7 +11,17 @@
     "types": ["article","video","audio"],
     "categories": [""]
   },
-
+ { 
+    "date": "2014-07-8",
+    "publication": "Eco Business",
+    "author": "",
+    "title": "Old phones offer lifeline to Africa’s forests",
+    "uri": "http://www.eco-business.com/news/old-phones-offer-lifeline-africas-forests/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
 
 
   { 
