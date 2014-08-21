@@ -41,7 +41,7 @@
 
 {
     "date": "2014-08-07",
-    "publication": "Venture Burn",
+    "publication": "VentureBurn",
     "author": "Jacques Coetzee",
     "title": "This startup wants to put phones in trees to save the rainforest, prevent poaching",
     "uri": "http://ventureburn.com/2014/07/this-startup-wants-to-save-the-rainforest-prevent-poaching-using-phones-in-trees/",
@@ -54,7 +54,7 @@
 
 {
     "date": "2014-07-08",
-    "publication": "Tumotech",
+    "publication": "TumoTech",
     "author": "Chuck Tesla",
     "title": "Recycling cell phones for use as deforetation detection devices",
     "uri": "http://www.tumotech.com/2014/07/08/recycling-cell-phones-for-use-as-deforestation-detection-devices/",
@@ -67,7 +67,7 @@
 
 {
     "date": "2014-07-07",
-    "publication": "Motherboard",
+    "publication": "VICE MotherBoard",
     "author": "Tom Revell",
     "title": "A Network of Recycled Phones Is Listening for Illegal Logging in the Rainforest",
     "uri": "http://motherboard.vice.com/read/a-network-of-recycled-phones-is-listening-for-illegal-logging-in-the-rainforest",
@@ -80,9 +80,9 @@
 
 {
     "date": "2014-06-03",
-    "publication": "WSJ",
+    "publication": "Wall Street Journal",
     "author": "Nick Shchetko",
-    "title": "Chainsaws, Gunshots and Coughs: Our Smartphones Are Listening",
+    "title": "Chainsaws, Gunshots & Coughs: Our Smartphones Are Listening",
     "uri": "http://blogs.wsj.com/digits/2014/07/03/chainsaws-gunshots-and-coughs-our-smartphones-are-listening/",
     "bitly": "",
     "lang": "en",
@@ -105,24 +105,11 @@
 
 
 {
-    "date": "2014-06-25",
-    "publication": "WOAI Radio",
-    "author": "Michael Main",
-    "title": "SMARTPHONES AND RAINFORESTS 1",
-    "uri": "https://soundcloud.com/michael-main-7/06-25-14-smartphones-and-rainforests-1",
-    "bitly": "",
-    "lang": "en",
-    "types": ["audio"],
-    "categories": [""]
-  },
-
-
-{
     "date": "2013-06-05",
     "publication": "New Scientist",
     "author": "Cat Ferguson",
     "title": "Old smartphones called in to save Indonesian forests",
-    "uri": "http://www.newscientist.com/article/mg21829205.600-old-smartphones-called-in-to-save-indonesian-forests.html#.U_Y4DqNe8-9",
+    "uri": "http://www.newscientist.com/article/mg21829205.600-old-smartphones-called-in-to-save-indonesian-forests.html",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -158,7 +145,7 @@
 
 {
     "date": "2013-10-06",
-    "publication": "Huff Post Green",
+    "publication": "HuffPost Green",
     "author": "Ryan Grenoble",
     "title": "'Rainforest Connection' Aims To Use Cell Phones To Stop Deforestation",
     "uri": "http://www.huffingtonpost.com/2013/06/10/rainforest-connection-cell-phone-deforestation_n_3416288.html",
@@ -171,7 +158,7 @@
 
 {
     "date": "2013-06-11",
-    "publication": "Tree Hugger",
+    "publication": "TreeHugger",
     "author": "Derek Markham",
     "title": "Solar-powered smartphones to be used to monitor rainforest for illegal logging",
     "uri": "http://www.treehugger.com/gadgets/smartphones-used-monitor-rainforest-illegal-logging.html",
@@ -184,7 +171,7 @@
 
 {
     "date": "2013-06-13",
-    "publication": "Earth Techling",
+    "publication": "EarthTechling",
     "author": "Beth Buczynski",
     "title": "Solar-Powered Phones Listen In On Rainforest Destruction",
     "uri": "http://earthtechling.com/2013/06/solar-powered-phones-listen-in-on-rainforest-destruction/",
@@ -197,7 +184,7 @@
 
   {
     "date": "2013-07-19",
-    "publication": "Eco Business",
+    "publication": "Eco-Business",
     "author": "Elga Reyes",
     "title": "Innovative monitoring systems stop illegal logging in real time",
     "uri": "http://www.eco-business.com/news/innovative-monitoring-systems-stop-illegal-logging-real-time/",
@@ -210,7 +197,7 @@
 
 { 
     "date": "2013-06-24",
-    "publication": "Care 2",
+    "publication": "Care2",
     "author": "Susan Bird",
     "title": "How Your Old Cell Phone Could Save the Rainforest",
     "uri": "http://www.care2.com/causes/how-your-old-cell-phone-could-save-the-rainforest.html",
@@ -224,10 +211,10 @@
 
 { 
     "date": "2013-07-19",
-    "publication": "All Things D",
+    "publication": "AllThingsD",
     "author": "Liz Gannes",
     "title": "After Waze, What Else Can Mobile Crowdsourcing Do?",
-    "uri": "http://allthingsd.com/20130719/after-waze-what-else-can-mobile-crowdsourcing-do/#",
+    "uri": "http://allthingsd.com/20130719/after-waze-what-else-can-mobile-crowdsourcing-do/",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -263,7 +250,7 @@
 
 { 
     "date": "2014-06-24",
-    "publication": "Tech Chrunch",
+    "publication": "TechCrunch",
     "author": "Natasha Lomas",
     "title": "Can Upcycled Smartphones Help Stop Illegal Rainforest Logging?",
     "uri": "http://techcrunch.com/2014/06/24/rfcx-kickstarter/",
@@ -277,7 +264,7 @@
 { 
     "date": "2014-07-10",
     "publication": "Harmosaman",
-    "author": "Mike-Hope",
+    "author": "Mike Hope",
     "title": "Rainforest Connection – Phones Turned to Forest Guardians",
     "uri": "http://hermosaman.com/2014/07/10/rainforest-connection-phones-turned-to-forest-guardians/",
     "bitly": "",
@@ -289,7 +276,7 @@
 
 { 
     "date": "2014-07-10",
-    "publication": "Triple Pundit",
+    "publication": "TriplePundit",
     "author": "Jan Lee",
     "title": "Climate Change: Old Cell Phones Can Now Protect Old Growth Forests",
     "uri": "http://www.triplepundit.com/2014/07/old-cell-phones-can-now-protect-old-growth-forests-deforestation/",
@@ -367,9 +354,9 @@
 
 { 
     "date": "2014-06-27",
-    "publication": "Service Mobiles",
+    "publication": "ServiceMobiles.fr",
     "author": "",
-    "title": "Surveiller les forêts avec vos vieux mobiles, du solaire et un logiciel open-source !",
+    "title": "Surveiller les forêts avec vos vieux mobiles, du solaire et un logiciel open-source!",
     "uri": "http://www.servicesmobiles.fr/services_mobiles/2014/06/surveiller-les-for%C3%AAts-avec-vos-vieux-mobiles-du-solaire-et-un-logiciel-open-source.html",
     "bitly": "",
     "lang": "fr",
@@ -380,7 +367,7 @@
 
 { 
     "date": "2014-06-25",
-    "publication": "Green Peace Blogs",
+    "publication": "GreenPeace Blogs",
     "author": "Amy Moas",
     "title": "Can Used Cell Phones Really Save the RainForest?",
     "uri": "http://greenpeaceblogs.org/2014/06/25/cell-phones-save-the-rainforest/",
@@ -393,7 +380,7 @@
 
 { 
     "date": "2014-06-24",
-    "publication": "Inhabitat",
+    "publication": "InHabitat",
     "author": "Beverley Mitchell",
     "title": "Rainforest Connection's Solar-Powered Smartphones Catch Illegal Loggers and Poachers",
     "uri": "http://inhabitat.com/rainforest-connections-solar-powered-smartphones-catch-illegal-loggers-and-poachers/",
@@ -408,7 +395,7 @@
     "date": "2014-06-07",
     "publication": "Silicon Angle",
     "author": "Kristin Feledy",
-    "title": "Twitter Pictures Come To Windows & Android Phones Save the Rainforest – SiliconANGLE News Roundup",
+    "title": "Twitter Pictures Come To Windows & Android Phones Save the Rainforest",
     "uri": "http://siliconangle.com/blog/2013/06/07/twitter-pictures-come-to-windows-android-phones-save-the-rainforest-siliconangle-news-roundup/",
     "bitly": "",
     "lang": "en",
@@ -419,9 +406,9 @@
 
 { 
     "date": "2013-06-12",
-    "publication": "Trend Hunter",
+    "publication": "TrendHunter",
     "author": "Alexander Lam",
-    "title": "The Rainforest Connection Catches Loggers with Phones in Trees",
+    "title": "Rainforest Connection Catches Loggers with Phones in Trees",
     "uri": "http://www.trendhunter.com/trends/rainforest-connection",
     "bitly": "",
     "lang": "en",
@@ -460,7 +447,7 @@
     "date": "2013-06-06",
     "publication": "Global Possibilities",
     "author": "Ryan Grenoble",
-    "title": "‘Rainforest Connection’ Aims To Use Cell Phones To Stop Deforestation",
+    "title": "Rainforest Connection Aims To Use Cell Phones To Stop Deforestation",
     "uri": "http://www.globalpossibilities.org/rainforest-connection-aims-to-use-cell-phones-to-stop-deforestation/",
     "bitly": "",
     "lang": "en",
@@ -471,7 +458,7 @@
 
 { 
     "date": "2013-06-11",
-    "publication": "Element14 Community",
+    "publication": "Element14",
     "author": "Cabe Atwell",
     "title": "Rainforest Connection looks to use cell phones to monitor rainforest destruction",
     "uri": "http://www.element14.com/community/community/applications/industrial-automation/blog/2013/06/11/rainforest-connection-looks-to-use-cell-phones-to-monitor-rainforest-destruction",
@@ -497,7 +484,7 @@
 
 { 
     "date": "2014-08-14",
-    "publication": "Ecoavant",
+    "publication": "EcoAvant",
     "author": "Ramón Costa",
     "title": "El sonido de la motosierra",
     "uri": "http://www.ecoavant.com/es/notices/2014/07/el-sonido-de-la-motosierra-2107.php",
@@ -511,7 +498,7 @@
 { 
     "date": "2014-08-13",
     "publication": "L'Atelier",
-    "author": "Eliane HONG",
+    "author": "Eliane Hong",
     "title": "Le recyclage de smartphones : plus loin dans l’écologie en luttant contre la déforestation",
     "uri": "http://www.atelier.net/trends/articles/recyclage-de-smartphones-plus-loin-ecologie-luttant-contre-deforestation_430804",
     "bitly": "",
@@ -562,7 +549,7 @@
 
 { 
     "date": "2014-07-28",
-    "publication": "Speak Easy",
+    "publication": "SpeakEasy",
     "author": "Mike Ayers",
     "title": "Neil Young’s New Project: Saving Rainforests With Old Cell Phones",
     "uri": "http://blogs.wsj.com/speakeasy/2014/07/28/neil-young-s-new-project-saving-rainforests-with-old-cell-phones/",
@@ -577,8 +564,8 @@
     "date": "2014-08-12",
     "publication": "RTL",
     "author": "",
-    "title": "Recycling Your I-Phone Could Save The Rainforest",
-    "uri": "http://recycle-technology.co.uk/recycling-phone-save-rainforest/#",
+    "title": "Recycling Your iPhone Could Save The Rainforest",
+    "uri": "http://recycle-technology.co.uk/recycling-phone-save-rainforest/",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -629,7 +616,7 @@
     "publication": "Blue & Green",
     "author": "Ilaria Bertini",
     "title": "Startup plans to tackle illegal deforestation in the Amazon with old smartphones",
-    "uri": "http://blueandgreentomorrow.com/2014/08/01/startup-plans-to-tackle-illegal-deforestation-in-the-amazon-with-old-smartphones/?utm",
+    "uri": "http://blueandgreentomorrow.com/2014/08/01/startup-plans-to-tackle-illegal-deforestation-in-the-amazon-with-old-smartphones/",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -638,7 +625,7 @@
 
 
 {
-    "date": "",
+    "date": "2014-08-04",
     "publication": "Make Wealth History",
     "author": "",
     "title": "Listening to the rainforest",
@@ -665,7 +652,7 @@
 
 {
     "date": "2014-08-04",
-    "publication": "Fox News",
+    "publication": "Fox News Latino",
     "author": "Bill Vourvoulias",
     "title": "High-Tech Flower Coming To The Amazon – One That Can Monitor Illegal Logging, Poaching",
     "uri": "http://latino.foxnews.com/latino/money/2014/08/04/high-tech-flower-coming-to-amazon-one-that-can-monitor-illegal-logging-and/",
@@ -703,7 +690,7 @@
  
  
   {
-    "date": "",
+    "date": "2014-07-25",
     "publication": "Garakami",
     "author": "Keara Wright",
     "title": "Rainforest Connection Upcycles old Smartphones into Guardians of the Rainforest",
@@ -717,7 +704,7 @@
  
  {
     "date": "2014-08-01",
-    "publication": "Scribd",
+    "publication": "Current Biology",
     "author": "Michael Gross",
     "title": "Connecting with the natural world",
     "uri": "http://www.scribd.com/doc/235660845/Current-Biology-Cell-Press",
@@ -730,10 +717,10 @@
  
  {
     "date": "2014-08-01",
-    "publication": "Smithsonian",
+    "publication": "Smithsonian Magazine",
     "author": "Matt Safford",
     "title": "How Solar-Powered Recycled Smartphones Could Save the Rainforest",
-    "uri": "http://www.smithsonianmag.com/innovation/how-solar-powered-recycled-smartphones-could-save-rainforest-180952214/?no-ist",
+    "uri": "http://www.smithsonianmag.com/innovation/how-solar-powered-recycled-smartphones-could-save-rainforest-180952214/",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -769,7 +756,7 @@
  
  {
     "date": "2014-07-25",
-    "publication": "Makezine",
+    "publication": "MAKE",
     "author": "David Lang",
     "title": "Turn Your Old Cell Phones into DIY Environmental Listening Devices to Stop Illegal Logging",
     "uri": "http://makezine.com/2014/07/25/turn-your-old-cell-phones-into-diy-environmental-listening-devices-to-stop-illegal-logging/",
@@ -835,7 +822,7 @@
  {
     "date": "2014-07-23",
     "publication": "Mongabay",
-    "author": "",
+    "author": "Rhett Butler",
     "title": "Phone-based logging alert system eyes expanding to the Amazon",
     "uri": "http://news.mongabay.com/2014/0723-rainforest-connection-brazil.html",
     "bitly": "",
@@ -848,8 +835,8 @@
  {
     "date": "2014-07-11",
     "publication": "Art of the Kickstart",
-    "author": "buffalobills515@gmail.com",
-    "title": "ATK003: Saving the World, Starting a Business and Social Entrepreneurship",
+    "author": "Matt Ward",
+    "title": "Saving the World, Starting a Business and Social Entrepreneurship",
     "uri": "http://artofthekickstart.com/atk003-saving-the-world-starting-a-business-and-social-entrepreneurship/",
     "bitly": "",
     "lang": "en",
@@ -889,7 +876,7 @@
     "publication": "The Green Optimistic",
     "author": "Mila Luleva",
     "title": "Kickstarter Campaign Uses Your Old CellPhone to Save The Rainforest and Reduce E-waste",
-    "uri": "http://www.greenoptimistic.com/2014/06/26/kickstarter-campaign-uses-old-cellphone-save-rainforest-reduce-e-waste/#.U_W75aMcZYE",
+    "uri": "http://www.greenoptimistic.com/2014/06/26/kickstarter-campaign-uses-old-cellphone-save-rainforest-reduce-e-waste/",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -976,7 +963,7 @@
   
  { 
     "date": "2014-07-08",
-    "publication": "Eco Business",
+    "publication": "Eco-Business",
     "author": "",
     "title": "Old phones offer lifeline to Africa’s forests",
     "uri": "http://www.eco-business.com/news/old-phones-offer-lifeline-africas-forests/",
@@ -1051,7 +1038,7 @@
 
   { 
     "date": "2014-08-19",
-    "publication": "newmanity",
+    "publication": "NewManity",
     "author": "",
     "title": "Lutter contre la déforestation grâce au recyclage de vieux portables!",
     "uri": "http://www.newmanity.com/newsflow/819",
