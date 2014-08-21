@@ -11,6 +11,175 @@
     "types": ["article","video","audio"],
     "categories": [""]
   },
+
+
+{
+  "date": "2014-08-11",
+    "publication": "21st Century Tech",
+    "author": "Len Rosen",
+    "title": "How Old Cell Phones Will Save the Forests of Our World",
+    "uri": "http://www.21stcentech.com/cell-phones-save-forests-world/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  }
+
+
+{
+  "date": "2014-08-08",
+    "publication": "Scribd",
+    "author": "Adrian Burton",
+    "title": "Old Phones Fend Off Illegal Loggers",
+    "uri": "http://www.scribd.com/doc/236263542/Old-Phones-Fend-Off-Illegal-Loggers",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  }
+
+
+{
+  "date": "2014-08-01",
+    "publication": "Blue & Green",
+    "author": "Ilaria Bertini",
+    "title": "Startup plans to tackle illegal deforestation in the Amazon with old smartphones",
+    "uri": "http://blueandgreentomorrow.com/2014/08/01/startup-plans-to-tackle-illegal-deforestation-in-the-amazon-with-old-smartphones/?utm",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  } 
+
+
+{
+  "date": "",
+    "publication": "Make Wealth History",
+    "author": "",
+    "title": "Listening to the rainforest",
+    "uri": "http://makewealthhistory.org/2014/08/04/listening-to-the-rainforest/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  }  
+
+
+{
+  "date": "2014-08-05",
+    "publication": "Latin Post",
+    "author": "Scharon Harding",
+    "title": "San Francisco Man Recycles Smartphones, Solar Panels Into Device Aimed to Stop Poaching, Deforestation in Amazon Rainforest",
+    "uri": "http://www.latinpost.com/articles/18569/20140805/san-francisco-man-recycles-smartphones-solar-panels-device-aimed-stop.htm",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  }  
+
+
+{
+  "date": "2014-08-04",
+    "publication": "Fox News",
+    "author": "Bill Vourvoulias",
+    "title": "High-Tech Flower Coming To The Amazon – One That Can Monitor Illegal Logging, Poaching",
+    "uri": "http://latino.foxnews.com/latino/money/2014/08/04/high-tech-flower-coming-to-amazon-one-that-can-monitor-illegal-logging-and/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  }  
+
+
+{
+  "date": "2014-08-05",
+    "publication": "DNA India",
+    "author": "Krishna Bahirwani",
+    "title": "Forests get mobile protection",
+    "uri": "http://www.dnaindia.com/mumbai/report-forests-get-mobile-protection-2007647",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  }  
+
+
+{
+  "date": "2014-07-28",
+    "publication": "USA Today",
+    "author": "Korina Lopez",
+    "title": "Neil Young recruits Kickstarter to save rainforest",
+    "uri": "http://www.usatoday.com/story/life/music/2014/07/28/neil-young-recruits-kickstarter-to-save-rainforest/13263531/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  }  
+ 
+ 
+  {
+  "date": "",
+    "publication": "Garakami",
+    "author": "Keara Wright",
+    "title": "Rainforest Connection Upcycles old Smartphones into Guardians of the Rainforest",
+    "uri": "http://garakami.com/20140725/rainforest-connection-upcycles-old-smartphones-into-guardians-of-the-rainforest/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  } 
+ 
+ 
+ {
+  "date": "2014-08-01",
+    "publication": "Scribd",
+    "author": "Michael Gross",
+    "title": "Connecting with the natural world",
+    "uri": "http://www.scribd.com/doc/235660845/Current-Biology-Cell-Press",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  } 
+ 
+ 
+ {
+  "date": "2014-08-01",
+    "publication": "Smithsonian",
+    "author": "Matt Safford",
+    "title": "How Solar-Powered Recycled Smartphones Could Save the Rainforest",
+    "uri": "http://www.smithsonianmag.com/innovation/how-solar-powered-recycled-smartphones-could-save-rainforest-180952214/?no-ist",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  } 
+ 
+ 
+ {
+  "date": "2014-07-29",
+    "publication": "The Independent",
+    "author": "Tom Bawden",
+    "title": "Neil Young signs on to save the rainforest - using solar powered mobile phones",
+    "uri": "http://www.independent.co.uk/news/people/neil-young-signs-on-to-save-the-rainforest--using-solar-powered-mobile-phones-9636227.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  } 
+ 
+ 
+ {
+  "date": "2014-07-26",
+    "publication": "Paris Match",
+    "author": "Kahina Sekkai",
+    "title": "Des portables pour lutter contre la déforestation",
+    "uri": "http://www.parismatch.com/Actu/Environnement-et-sciences/Rainforest-Connection-Des-telephones-portables-pour-lutter-contre-la-deforestation-577582",
+    "bitly": "",
+    "lang": "fr",
+    "types": ["article"],
+    "categories": [""]
+  } 
  
  
  {
