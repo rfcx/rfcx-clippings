@@ -11,6 +11,19 @@
     "types": ["article","video","audio"],
     "categories": [""]
   },
+ 
+ 
+ {
+  "date": "2014-07-07",
+    "publication": "Digit",
+    "author": "Silky Malhotra",
+    "title": "Rainforest Connection plans to use your old smartphone to help save forests",
+    "uri": "http://www.digit.in/mobile-phones/rainforest-connection-plans-to-use-your-old-smartphone-to-help-save-forests-23195.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  } 
   
   
   {
@@ -21,7 +34,7 @@
     "uri": "http://www.mobiletor.com/112813/smartphone-can-help-save-forests-endangered-animals-poaching/",
     "bitly": "",
     "lang": "en",
-    "types": ["article","video","audio"],
+    "types": ["article"]
     "categories": [""]
   }
   
@@ -33,9 +46,11 @@
     "uri": "http://www.woai.com/onair/michael-main-main-street-tech-44533/protecting-the-rainforest-with-old-smartphones-12499148/",
     "bitly": "",
     "lang": "en",
-    "types": ["article","video","audio"],
+    "types": ["article"]
     "categories": [""]
   }
+
+
     
   
   {
