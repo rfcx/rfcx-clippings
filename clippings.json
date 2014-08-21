@@ -256,7 +256,7 @@
     "uri": "http://www.bbc.com/specialfeatures/horizonsbusiness/seriesfour/episode-5-extreme-recycling/?vid=p020dkp1",
     "bitly": "",
     "lang": "en",
-    "types": [video"],
+    "types": ["video"],
     "categories": [""]
   },
 
