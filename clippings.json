@@ -12,7 +12,20 @@
     "categories": [""]
   },
   
+  {
+  "date": "2014-06-25",
+    "publication": "WOAI",
+    "author": "",
+    "title": "Protecting the Rainforest with Old Smartphones",
+    "uri": "http://www.woai.com/onair/michael-main-main-street-tech-44533/protecting-the-rainforest-with-old-smartphones-12499148/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article","video","audio"],
+    "categories": [""]
+  }
+    
   
+  {
   "date": "2014-06-25",
     "publication": "Engineering and Technology Magazine",
     "author": "Tereza Pultarova",
@@ -22,7 +35,8 @@
     "lang": "en",
     "types": ["article"],
     "categories": [""]
-    
+  }
+  
   
  { 
     "date": "2014-07-08",
