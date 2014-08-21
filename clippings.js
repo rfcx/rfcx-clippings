@@ -1033,6 +1033,6 @@ var rfcxClippings = [
     "lang": "fr",
     "types": ["article"],
     "categories": [""]
-  },
+  }
 
-{}];
+];
