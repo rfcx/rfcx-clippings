@@ -16,6 +16,136 @@ RFCX.press.data = [
 
 
 {
+    "date": "2014-06-26",
+    "publication": "Take Part",
+    "author": "Liz Dwyer",
+    "title": "This Incredible Project Uses Old Cell Phones to Stop Illegal Logging and Poaching",
+    "uri": "http://www.takepart.com/article/2014/06/26/incredible-project-uses-old-cell-phones-stop-logging-and-poaching",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-17",
+    "publication": "Apple Next Media",
+    "author": "",
+    "title": "竊聽風雲4之手機救雨林",
+    "uri": "http://hk.apple.nextmedia.com/news/art/20140717/18803370",
+    "bitly": "",
+    "lang": "zh",
+    "types": ["article","video","audio"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-21",
+    "publication": "VB News",
+    "author": "Murry Shohat",
+    "title": "Rainforest-monitoring project hits Kickstarter goal early, ups the ante with tribal deals",
+    "uri": "http://venturebeat.com/2014/07/21/rainforest-connection-hits-kickstarter-goal-early-ups-the-ante-with-tribal-deals-in-brazil-and-panama/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-01",
+    "publication": "Your Daily Media",
+    "author": "Jesse Fernandez",
+    "title": "Kickstarter Project Will Turn Your Old Phone Into The New Captain Planet",
+    "uri": "http://www.yourdailymedia.com/post/this-kickstarter-project-will-turn-your-old-phone-into-the-new-captain-plan",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-28",
+    "publication": "Rolling Stone",
+    "author": "Andy Greene",
+    "title": "Neil Young Teams With New Kickstarter Campaign to Save the Rainforest",
+    "uri": "http://www.rollingstone.com/music/videos/neil-young-teams-with-new-kickstarter-campaign-to-save-the-rainforest-20140728",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-29",
+    "publication": "Sound Cloud",
+    "author": "",
+    "title": "Rainforest Connection on Howard Stern",
+    "uri": "https://soundcloud.com/rainforestcx/20140729-rainforest-connection-on-howard-stern",
+    "bitly": "",
+    "lang": "en",
+    "types": ["audio"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-08-22",
+    "publication": "Ny Teknik",
+    "author": "Ulla Karlsson-Ottosson",
+    "title": "Återvunna mobiler räddar regnskog",
+    "uri": "http://www.nyteknik.se/nyheter/energi_miljo/miljo/article3839812.ece",
+    "bitly": "",
+    "lang": "sv",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-24",
+    "publication": "Mongabay",
+    "author": "Rhett A. Butler",
+    "title": "Discarded cell phones to help fight rainforest poachers, loggers in real-time",
+    "uri": "http://news.mongabay.com/2014/0624-rainforest-connection-interview.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-08-11",
+    "publication": "21th Century Tech",
+    "author": "Len Rosen",
+    "title": "How Old Cell Phones Will Save the Forests of Our World",
+    "uri": "http://www.21stcentech.com/cell-phones-save-forests-world/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-08-12",
+    "publication": "RTL",
+    "author": "",
+    "title": "Recycling Your I-Phone Could Save The Rainforest",
+    "uri": "http://recycle-technology.co.uk/recycling-phone-save-rainforest/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
     "date": "2014-07-04",
     "publication": "Blue Win",
     "author": "Marc Steffen",
