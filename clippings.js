@@ -1148,7 +1148,7 @@ RFCX.press.data = [
  
  {
     "date": "2014-08-02",
-    "publication": "Scribd",
+    "publication": "Current Biology",
     "author": "Michael Gross",
     "title": "Connecting with the natural world",
     "uri": "http://www.scribd.com/doc/235660845/Current-Biology-Cell-Press",
