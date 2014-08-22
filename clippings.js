@@ -160,11 +160,11 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-17",
-    "publication": "Apple Next Media",
+    "publication": "Apple Daily, Hong Kong",
     "author": "",
     "title": "竊聽風雲4之手機救雨林",
-    "uri": "http://hk.apple.nextmedia.com/news/art/20140717/18803370",
-    "bitly": "",
+    "uri": "https://www.youtube.com/watch?v=wts60EO4kJ4",
+    "bitly": "http://r-f.cx/1l1lf1Z",
     "lang": "zh",
     "types": ["article","video"],
     "categories": [""]
