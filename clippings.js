@@ -1,4 +1,4 @@
-if (typeof RFCX.press.data === "undefined") { var RFCX = {press:{data:[]}}; }
+if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { var RFCX = { press: {} }; }
 
 RFCX.press.data = [
 
