@@ -108,7 +108,7 @@ RFCX.press.data = [
 
 {
     "date": "2013-06-06",
-    "publication": "Hardwood Floors",
+    "publication": "Hardwood Floors Magazine",
     "author": "",
     "title": "Smartphones Listening for Chainsaws Could Save Rainforests",
     "uri": "http://hardwoodfloorsmag.com/editors/blog/default.aspx?id=2054&t=Smartphones-Listening-for-Chainsaws-Coul",
@@ -887,19 +887,6 @@ RFCX.press.data = [
  
  
  {
-    "date": "2014-06-24",
-    "publication": "GreenBiz",
-    "author": "Heather Clancy",
-    "title": "How your castoff smartphone can fight deforestation, in real time",
-    "uri": "http://www.greenbiz.com/blog/2014/06/24/how-your-castoff-smartphone-can-fight-deforestation-real-time",
-    "bitly": "",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""]
-  },
- 
- 
- {
     "date": "2014-07-07",
     "publication": "Digit",
     "author": "Silky Malhotra",
@@ -926,8 +913,8 @@ RFCX.press.data = [
   
   {
     "date": "2014-06-25",
-    "publication": "WOAI",
-    "author": "",
+    "publication": "WOAI News Radio",
+    "author": "Michael Main",
     "title": "Protecting the Rainforest with Old Smartphones",
     "uri": "http://www.woai.com/onair/michael-main-main-street-tech-44533/protecting-the-rainforest-with-old-smartphones-12499148/",
     "bitly": "",
