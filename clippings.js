@@ -1135,7 +1135,7 @@ RFCX.press.data = [
  
  {
     "date": "2014-06-22",
-    "publication": "Ryot",
+    "publication": "RYOT",
     "author": "Brittani Greenquist",
     "title": "Your Old Smartphone Could Save the Rainforest",
     "uri": "http://www.ryot.org/old-smartphone-save-rainforest/737141",
