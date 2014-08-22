@@ -355,7 +355,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-17",
-    "publication": "Apple Next Media",
+    "publication": "Apple Daily, HongKong",
     "author": "",
     "title": "竊聽風雲4之手機救雨林",
     "uri": "http://hk.apple.nextmedia.com/news/art/20140717/18803370",
@@ -445,21 +445,8 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-08-11",
-    "publication": "21th Century Tech",
-    "author": "Len Rosen",
-    "title": "How Old Cell Phones Will Save the Forests of Our World",
-    "uri": "http://www.21stcentech.com/cell-phones-save-forests-world/",
-    "bitly": "",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""]
-  },
-
-
-{
     "date": "2014-08-12",
-    "publication": "RTL",
+    "publication": "RecycleTechnology Limited",
     "author": "",
     "title": "Recycling Your I-Phone Could Save The Rainforest",
     "uri": "http://recycle-technology.co.uk/recycling-phone-save-rainforest/",
@@ -1004,18 +991,6 @@ RFCX.press.data = [
   },
 
 
-{ 
-    "date": "2014-08-12",
-    "publication": "RTL",
-    "author": "",
-    "title": "Recycling Your iPhone Could Save The Rainforest",
-    "uri": "http://recycle-technology.co.uk/recycling-phone-save-rainforest/",
-    "bitly": "",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""]
-  },
-
 
 { 
     "date": "2014-08-11",
@@ -1329,8 +1304,8 @@ RFCX.press.data = [
  
  
  {
-    "date": "",
-    "publication": "Ryot",
+    "date": "2014-06-29",
+    "publication": "RYOT",
     "author": "Brittani Greenquist",
     "title": "Your Old Smartphone Could Save the Rainforest",
     "uri": "http://www.ryot.org/old-smartphone-save-rainforest/737141",
