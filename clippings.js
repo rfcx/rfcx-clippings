@@ -3,11 +3,206 @@ if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { va
 RFCX.press.data = [
 
 {
-    "date": "2014-08-19",
+    "date": "2014-08-08",
     "publication": "Tech Republic",
     "author": "Lyndsey Gilpin",
     "title": "How recycled solar powered phones could save rainforests and change how the tech industry tackles climate change",
     "uri": "http://www.techrepublic.com/article/how-recycled-solar-powered-phones-could-save-rainforests-and-change-how-the-tech-industry-tackles-climate-change/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2013-06-11",
+    "publication": "PSFK",
+    "author": "Ryan Gerhardt",
+    "title": "Smartphones Hung From Trees Alert Rangers To Illegal Logging",
+    "uri": "http://www.psfk.com/2013/06/rainforest-connection-illegal-logging.html#!bIi1To",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-19",
+    "publication": "Pager Duty",
+    "author": "Tony Albanese",
+    "title": "Saving the Rainforest One Alert at a Time",
+    "uri": "http://blog.pagerduty.com/2014/06/saving-the-rainforest/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-24",
+    "publication": "Next Power Up",
+    "author": "Seth Fitzgerald",
+    "title": "Rainforest Connection Uses Old Phones To Stop Poaching",
+    "uri": "http://www.nextpowerup.com/news/10054/rainforest-connection-uses-old-phones-to-stop-poaching.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-25",
+    "publication": "PSFK",
+    "author": "Ross Brooks",
+    "title": "Discarded Smartphones Upcycled Into Digital Forest Watchdogs",
+    "uri": "http://www.psfk.com/2014/06/upcycled-smartphones-rainforest-protectors.html#!bIiGVi",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "",
+    "publication": "Articles.informer",
+    "author": "Haley James",
+    "title": "Upcycled Smartphones to Fight Illegal Rainforest Logging",
+    "uri": "http://articles.informer.com/upcycled-smartphones-to-fight-illegal-rainforest-logging.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2013-06-13",
+    "publication": "Inhabitat",
+    "author": "Timon Singh",
+    "title": "Rainforest Connection Tackles Illegal Deforestation With Solar-Powered Smartphones",
+    "uri": "http://inhabitat.com/rainforest-connection-tackles-illegal-deforestation-with-solar-powered-smartphones/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-01",
+    "publication": "WTOP",
+    "author": "Neal Augenstein",
+    "title": "Recycled phones protect rainforest from illegal loggers, poachers",
+    "uri": "http://www.wtop.com/884/3653894/Recycled-phones-protect-rainforest",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-01",
+    "publication": "Fatted Goose",
+    "author": "Anna Smushkovich",
+    "title": "This Kickstarter Wants To Save The Rainforest With Old Cellphones",
+    "uri": "http://fattedgoose.com/2014/07/01/kickstarter-wants-save-the-rainforest-old-cellphones/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-06",
+    "publication": "Khaleej Times",
+    "author": "",
+    "title": "Your old smartphone can help save forests",
+    "uri": "http://www.khaleejtimes.com/kt-article-display-1.asp?section=technology&xfile=data/technology/2014/July/technology_July6.xml",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-07",
+    "publication": "Tamil Fox",
+    "author": "Mercedes Wiolette",
+    "title": "Smartphones are helpful in saving forests!",
+    "uri": "http://www.tamilfox.com/tech-news/smartphones-are-helpful-in-saving-forests/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-10",
+    "publication": "Ventito",
+    "author": "Evan Wade",
+    "title": "The Rainforest Connection Wants You (or Your Old Smartphone, Anyway) to Fight Rainforest Crime",
+    "uri": "http://wdc.com/ventito/tech/trending/the-rainforest-connection-wants-you-or-your-old-smartphone-anyway-to-fight-rainforest-crime",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-21",
+    "publication": "International Business Times",
+    "author": "Karen Wong",
+    "title": "iPhone 6 releasing Soon, Use Old Smartphones to Save Rainforest",
+    "uri": "http://au.ibtimes.com/articles/559800/20140721/trees-use-smartphones-iphone-6-release-date.htm#.U_eIKKNe8-8",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-28",
+    "publication": "Demonszone",
+    "author": "Cameron Terry",
+    "title": "Neil Young backs Rainforest Connection Kickstarter",
+    "uri": "http://demonszone.com/2014/07/28/neil-young-backs-rainforest-connection-kickstarter/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "",
+    "publication": "Libreprensa",
+    "author": "",
+    "title": "Neil Young joins new Kickstarter project to save rainforest",
+    "uri": "http://libreprensa.com/k/san-francisco-based-rainforest-connection/3301914#s/4065827",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-28",
+    "publication": "V6-Complete and unbiased analysis",
+    "author": "",
+    "title": "Rainforest Connection to curb Illegal Logging using Smartphones",
+    "uri": "http://veenga.wordpress.com/2014/07/28/rainforest-connection-to-curb-illegal-logging-using-smartphones/",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -46,7 +241,7 @@ RFCX.press.data = [
     "publication": "Care2",
     "author": "Susan Bird",
     "title": "Here’s How We Can Stop Illegal Logging and Poaching on the Spot",
-    "uri": "http://www.huffingtonpost.com/jesse-prenticedunn/fighting-illegal-logging-_b_5589217.html",
+    "uri": "http://www.care2.com/causes/heres-how-we-can-stop-illegal-logging-and-poaching-on-the-spot.html",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -68,7 +263,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-08-22",
+    "date": "",
     "publication": "Engadget",
     "author": "Daniel Cooper",
     "title": "Anti-poaching campaign needs $100,000 to turn old smartphones into mantraps",
@@ -160,11 +355,11 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-17",
-    "publication": "Apple Daily, Hong Kong",
+    "publication": "Apple Next Media",
     "author": "",
     "title": "竊聽風雲4之手機救雨林",
-    "uri": "https://www.youtube.com/watch?v=wts60EO4kJ4",
-    "bitly": "http://r-f.cx/1l1lf1Z",
+    "uri": "http://hk.apple.nextmedia.com/news/art/20140717/18803370",
+    "bitly": "",
     "lang": "zh",
     "types": ["article","video"],
     "categories": [""]
@@ -224,7 +419,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-08-22",
+    "date": "2014-08-11",
     "publication": "Ny Teknik",
     "author": "Ulla Karlsson-Ottosson",
     "title": "Återvunna mobiler räddar regnskog",
@@ -289,7 +484,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-08-07",
+    "date": "2014-07-08",
     "publication": "VentureBurn",
     "author": "Jacques Coetzee",
     "title": "This startup wants to put phones in trees to save the rainforest, prevent poaching",
@@ -328,7 +523,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-06-03",
+    "date": "2014-07-03",
     "publication": "Wall Street Journal",
     "author": "Nick Shchetko",
     "title": "Chainsaws, Gunshots & Coughs: Our Smartphones Are Listening",
@@ -393,7 +588,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "2013-10-06",
+    "date": "2013-06-10",
     "publication": "HuffPost Green",
     "author": "Ryan Grenoble",
     "title": "'Rainforest Connection' Aims To Use Cell Phones To Stop Deforestation",
@@ -472,10 +667,10 @@ RFCX.press.data = [
 
 
 { 
-    "date": "2014-06-07",
+    "date": "2014-06-08",
     "publication": "BBC Horizon",
-    "author": "Adam Shaw",
-    "title": "Episode 5: Extreme Recycling",
+    "author": "",
+    "title": "BBC Horizon, Rainforest Connection",
     "uri": "https://www.youtube.com/watch?v=McxDyNkbEPI",
     "bitly": "http://r-f.cx/1zd7i23",
     "lang": "en",
@@ -563,7 +758,7 @@ RFCX.press.data = [
 
 
 { 
-    "date": "2014-07-04",
+    "date": "",
     "publication": "Climate News Network",
     "author": "Alex Kirby",
     "title": "Old phones offer lifeline to Africa’s forests",
@@ -667,7 +862,7 @@ RFCX.press.data = [
 
 
 { 
-    "date": "2013-08-21",
+    "date": "",
     "publication": "Engadget",
     "author": "Daniel Cooper",
     "title": "Discarded Android phones protect rainforests from loggers",
@@ -693,7 +888,7 @@ RFCX.press.data = [
 
 
 { 
-    "date": "2013-06-06",
+    "date": "2013-06-10",
     "publication": "Global Possibilities",
     "author": "Ryan Grenoble",
     "title": "Rainforest Connection Aims To Use Cell Phones To Stop Deforestation",
@@ -874,7 +1069,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-08-04",
+    "date": "",
     "publication": "Make Wealth History",
     "author": "",
     "title": "Listening to the rainforest",
@@ -939,7 +1134,7 @@ RFCX.press.data = [
  
  
   {
-    "date": "2014-07-25",
+    "date": "",
     "publication": "Garakami",
     "author": "Keara Wright",
     "title": "Rainforest Connection Upcycles old Smartphones into Guardians of the Rainforest",
@@ -952,8 +1147,8 @@ RFCX.press.data = [
  
  
  {
-    "date": "2014-08-01",
-    "publication": "Current Biology",
+    "date": "2014-08-02",
+    "publication": "Scribd",
     "author": "Michael Gross",
     "title": "Connecting with the natural world",
     "uri": "http://www.scribd.com/doc/235660845/Current-Biology-Cell-Press",
@@ -1134,8 +1329,8 @@ RFCX.press.data = [
  
  
  {
-    "date": "2014-06-22",
-    "publication": "RYOT",
+    "date": "",
+    "publication": "Ryot",
     "author": "Brittani Greenquist",
     "title": "Your Old Smartphone Could Save the Rainforest",
     "uri": "http://www.ryot.org/old-smartphone-save-rainforest/737141",
@@ -1174,7 +1369,7 @@ RFCX.press.data = [
   {
     "date": "2014-06-25",
     "publication": "WOAI News Radio",
-    "author": "Michael Main",
+    "author": "",
     "title": "Protecting the Rainforest with Old Smartphones",
     "uri": "http://www.woai.com/onair/michael-main-main-street-tech-44533/protecting-the-rainforest-with-old-smartphones-12499148/",
     "bitly": "",
@@ -1237,7 +1432,7 @@ RFCX.press.data = [
 
 
   { 
-    "date": "2014-08-16",
+    "date": "2014-08-22",
     "publication": "RTL NOW",
     "author": "",
     "title": "RTL Aktuell, Rainforest Connection",
