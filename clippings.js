@@ -472,12 +472,12 @@ RFCX.press.data = [
 
 
 { 
-    "date": "",
+    "date": "2014-06-07",
     "publication": "BBC Horizon",
-    "author": "",
+    "author": "Adam Shaw",
     "title": "Episode 5: Extreme Recycling",
-    "uri": "http://www.bbc.com/specialfeatures/horizonsbusiness/seriesfour/episode-5-extreme-recycling/?vid=p020dkp1",
-    "bitly": "",
+    "uri": "https://www.youtube.com/watch?v=McxDyNkbEPI",
+    "bitly": "http://r-f.cx/1zd7i23",
     "lang": "en",
     "types": ["video"],
     "categories": [""]
@@ -490,7 +490,7 @@ RFCX.press.data = [
     "author": "W. Wayt Gibbs",
     "title": "If Poachers and Illegal Loggers Strike, This Forest Phones It In",
     "uri": "http://www.scientificamerican.com/article/if-poachers-and-illegal-loggers-strike-this-forest-phones-it-in/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1qK1Aov",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -503,7 +503,7 @@ RFCX.press.data = [
     "author": "Natasha Lomas",
     "title": "Can Upcycled Smartphones Help Stop Illegal Rainforest Logging?",
     "uri": "http://techcrunch.com/2014/06/24/rfcx-kickstarter/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1wsoYr5",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -516,7 +516,7 @@ RFCX.press.data = [
     "author": "Mike Hope",
     "title": "Rainforest Connection – Phones Turned to Forest Guardians",
     "uri": "http://hermosaman.com/2014/07/10/rainforest-connection-phones-turned-to-forest-guardians/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1tt2tnT",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -529,7 +529,7 @@ RFCX.press.data = [
     "author": "Jan Lee",
     "title": "Climate Change: Old Cell Phones Can Now Protect Old Growth Forests",
     "uri": "http://www.triplepundit.com/2014/07/old-cell-phones-can-now-protect-old-growth-forests-deforestation/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1mEjhDc",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -542,7 +542,7 @@ RFCX.press.data = [
     "author": "Alex Kirby",
     "title": "Recycled phones drive new wildlife protection technology",
     "uri": "http://www.theecologist.org/News/news_round_up/2468399/recycled_phones_drive_new_wildlife_protection_technology.html",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1nbsByK",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -555,7 +555,7 @@ RFCX.press.data = [
     "author": "Alyn Wallace",
     "title": "Rainforest Connection aims to protect the rainforest using recycled tech",
     "uri": "http://interestingengineering.com/rainforest-connection-aims-to-protect-the-rainforest-using-recycled-tech/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1pXy27Y",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -568,7 +568,7 @@ RFCX.press.data = [
     "author": "Alex Kirby",
     "title": "Old phones offer lifeline to Africa’s forests",
     "uri": "http://www.climatenewsnetwork.net/2014/07/old-phones-offer-lifeline-to-africas-forests/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1ov37Mo",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -581,7 +581,7 @@ RFCX.press.data = [
     "author": "John Platt",
     "title": "How your old cellphone could help stop illegal logging and poaching",
     "uri": "http://www.mnn.com/green-tech/gadgets-electronics/stories/how-your-old-cellphone-could-help-stop-illegal-logging-and",
-    "bitly": "",
+    "bitly": "http://r-f.cx/TEriMZ",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -594,7 +594,7 @@ RFCX.press.data = [
     "author": "Tom Spendlove",
     "title": "Hacking cellphones to save the rainforest",
     "uri": "http://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/7909/Hacking-cellphones-to-save-the-rainforest.aspx",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1qstKEG",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -607,7 +607,7 @@ RFCX.press.data = [
     "author": "",
     "title": "Surveiller les forêts avec vos vieux mobiles, du solaire et un logiciel open-source!",
     "uri": "http://www.servicesmobiles.fr/services_mobiles/2014/06/surveiller-les-for%C3%AAts-avec-vos-vieux-mobiles-du-solaire-et-un-logiciel-open-source.html",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1sJB7cJ",
     "lang": "fr",
     "types": ["article"],
     "categories": [""]
@@ -620,7 +620,7 @@ RFCX.press.data = [
     "author": "Amy Moas",
     "title": "Can Used Cell Phones Really Save the RainForest?",
     "uri": "http://greenpeaceblogs.org/2014/06/25/cell-phones-save-the-rainforest/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1qLavpO",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -633,7 +633,7 @@ RFCX.press.data = [
     "author": "Beverley Mitchell",
     "title": "Rainforest Connection's Solar-Powered Smartphones Catch Illegal Loggers and Poachers",
     "uri": "http://inhabitat.com/rainforest-connections-solar-powered-smartphones-catch-illegal-loggers-and-poachers/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/Tyx9DN",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
