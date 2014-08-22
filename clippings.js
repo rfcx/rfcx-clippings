@@ -1,4 +1,5 @@
-var rfcxClippings = [
+if ((typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") || (typeof RFCX.press.clippingData === "undefined")) { var RFCX = { press: { clippingData: [] } }; }
+RFCX.press.clippingData = [
 
 {
     "date": "2014-08-19",
