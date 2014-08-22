@@ -16,6 +16,149 @@ RFCX.press.data = [
 
 
 {
+    "date": "2014-07-30",
+    "publication": "RTCC",
+    "author": "Sophie Yeo",
+    "title": "Brazil tribe teams up with tech company to save rainforest",
+    "uri": "http://www.rtcc.org/2014/07/30/brazil-tribe-teams-up-with-tech-company-to-save-rainforest/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-30",
+    "publication": "RTCC",
+    "author": "Sophie Yeo",
+    "title": "Brazil tribe teams up with tech company to save rainforest",
+    "uri": "http://www.rtcc.org/2014/07/30/brazil-tribe-teams-up-with-tech-company-to-save-rainforest/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-30",
+    "publication": "Tree Hugger",
+    "author": "Derek Markham",
+    "title": "Crowdfunded solar-powered smartphones become rainforest guardians to fight illegal logging and poaching",
+    "uri": "http://www.treehugger.com/gadgets/crowdfunded-solar-powered-smartphones-become-rainforest-guardians-stop-illegal-logging-and-poaching.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-03",
+    "publication": "Care2",
+    "author": "Susan Bird",
+    "title": "Here’s How We Can Stop Illegal Logging and Poaching on the Spot",
+    "uri": "http://www.huffingtonpost.com/jesse-prenticedunn/fighting-illegal-logging-_b_5589217.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-07-16",
+    "publication": "Huff Post Green",
+    "author": "Jesse Prentice-Dunn",
+    "title": "Fighting Illegal Logging With Your Cell Phone",
+    "uri": "http://www.huffingtonpost.com/jesse-prenticedunn/fighting-illegal-logging-_b_5589217.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-08-22",
+    "publication": "Engadget",
+    "author": "Daniel Cooper",
+    "title": "Anti-poaching campaign needs $100,000 to turn old smartphones into mantraps",
+    "uri": "http://www.engadget.com/2014/06/24/rainforest-connection-kickstarter/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-05-12",
+    "publication": "Gizmodo",
+    "author": "Sarah Zhang",
+    "title": "Your Old Phone Could Help Eavesdrop on Illegal Rainforest Loggers",
+    "uri": "http://gizmodo.com/your-old-phone-could-help-eavesdrop-on-illegal-rainfore-1575266728",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-08-13",
+    "publication": "CBC Calgary",
+    "author": "",
+    "title": "Rainforest Connection on CBC Calgary",
+    "uri": "https://soundcloud.com/rainforestcx/20140813-rainforest-connection-on-cbc-calgary",
+    "bitly": "",
+    "lang": "en",
+    "types": ["audio"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-26",
+    "publication": "VB News",
+    "author": "Murry Shohat",
+    "title": "Your old smartphone could pinpoint illegal logging & save the rainforests",
+    "uri": "http://venturebeat.com/2014/06/26/your-old-smartphone-could-pinpoint-illegal-logging-save-the-rainforests/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-26",
+    "publication": "Inside Mobile Apps",
+    "author": "Phi Tran",
+    "title": "Kickstarter project uses recycled smartphones to protect endangered trees",
+    "uri": "http://www.insidemobileapps.com/2014/06/26/kickstarter-project-uses-recycled-smartphones-to-protect-endangered-trees/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-06-27",
+    "publication": "Mashable",
+    "author": "Katie Nelson",
+    "title": "Smartphones Recycled Into Devices That Detect Deforestation",
+    "uri": "http://mashable.com/2014/06/26/recycle-smartphone-startup-deforestation/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
     "date": "2014-06-26",
     "publication": "Take Part",
     "author": "Liz Dwyer",
@@ -36,7 +179,7 @@ RFCX.press.data = [
     "uri": "http://hk.apple.nextmedia.com/news/art/20140717/18803370",
     "bitly": "",
     "lang": "zh",
-    "types": ["article","video","audio"],
+    "types": ["article","video"],
     "categories": [""]
   },
 
@@ -82,7 +225,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-29",
-    "publication": "Sound Cloud",
+    "publication": "Howard Stern",
     "author": "",
     "title": "Rainforest Connection on Howard Stern",
     "uri": "https://soundcloud.com/rainforestcx/20140729-rainforest-connection-on-howard-stern",
