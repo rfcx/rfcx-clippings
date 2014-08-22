@@ -263,7 +263,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "",
+    "date": "2013-06-07",
     "publication": "Engadget",
     "author": "Daniel Cooper",
     "title": "Anti-poaching campaign needs $100,000 to turn old smartphones into mantraps",
@@ -862,7 +862,7 @@ RFCX.press.data = [
 
 
 { 
-    "date": "",
+    "date": "2014-06-24",
     "publication": "Engadget",
     "author": "Daniel Cooper",
     "title": "Discarded Android phones protect rainforests from loggers",
