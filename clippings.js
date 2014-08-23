@@ -354,6 +354,30 @@ RFCX.press.data = [
 
 
 {
+    "date": "2014-08-15",
+    "publication": "FUN 107",
+    "author": "Heather Fink",
+    "title": "Recycled Cell Phones Are Used In The Rainforest",
+    "uri": "http://fun107.com/cell-phones-rainforest-recycled/",
+    "bitly": "http://r-f.cx/1t0R1in",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+{
+    "date": "2014-08-15",
+    "publication": "FUN 107",
+    "author": "Heather Fink",
+    "title": "Recycled Cell Phones Are Used In The Rainforest",
+    "uri": "http://fun107.com/cell-phones-rainforest-recycled/",
+    "bitly": "http://r-f.cx/1t0R1in",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+{
     "date": "2014-07-17",
     "publication": "Apple Daily, HongKong",
     "author": "",
@@ -368,7 +392,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-21",
-    "publication": "VB News",
+    "publication": "VentureBeat",
     "author": "Murry Shohat",
     "title": "Rainforest-monitoring project hits Kickstarter goal early, ups the ante with tribal deals",
     "uri": "http://venturebeat.com/2014/07/21/rainforest-connection-hits-kickstarter-goal-early-ups-the-ante-with-tribal-deals-in-brazil-and-panama/",
