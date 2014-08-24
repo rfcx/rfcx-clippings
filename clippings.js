@@ -68,7 +68,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "",
+    "date": "2014-06-27",
     "publication": "Articles.informer",
     "author": "Haley James",
     "title": "Upcycled Smartphones to Fight Illegal Rainforest Logging",
@@ -185,7 +185,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "",
+    "date": "2014-07-29",
     "publication": "Libreprensa",
     "author": "",
     "title": "Neil Young joins new Kickstarter project to save rainforest",
@@ -758,7 +758,7 @@ RFCX.press.data = [
 
 
 { 
-    "date": "",
+    "date": "2014-07-04",
     "publication": "Climate News Network",
     "author": "Alex Kirby",
     "title": "Old phones offer lifeline to Africa’s forests",
@@ -1057,7 +1057,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "",
+    "date": "2014-08-04",
     "publication": "Make Wealth History",
     "author": "",
     "title": "Listening to the rainforest",
@@ -1122,7 +1122,7 @@ RFCX.press.data = [
  
  
   {
-    "date": "",
+    "date": "2014-07-25",
     "publication": "Garakami",
     "author": "Keara Wright",
     "title": "Rainforest Connection Upcycles old Smartphones into Guardians of the Rainforest",
