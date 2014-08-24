@@ -173,19 +173,6 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-28",
-    "publication": "Demonszone",
-    "author": "Cameron Terry",
-    "title": "Neil Young backs Rainforest Connection Kickstarter",
-    "uri": "http://demonszone.com/2014/07/28/neil-young-backs-rainforest-connection-kickstarter/",
-    "bitly": "",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""]
-  },
-
-
-{
-    "date": "2014-07-28",
     "publication": "Sunday Express",
     "author": "",
     "title": "Neil Young joins new Kickstarter project to save rainforest",
@@ -199,7 +186,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-28",
-    "publication": "V6-Complete and unbiased analysis",
+    "publication": "Veenga",
     "author": "",
     "title": "Rainforest Connection to curb Illegal Logging using Smartphones",
     "uri": "http://veenga.wordpress.com/2014/07/28/rainforest-connection-to-curb-illegal-logging-using-smartphones/",
@@ -967,7 +954,7 @@ RFCX.press.data = [
 
 { 
     "date": "2014-08-11",
-    "publication": "Outside",
+    "publication": "Outside Magazine",
     "author": "Hannah Weinberger",
     "title": "Save the Rainforest with Your Old Cell",
     "uri": "http://www.outsideonline.com/news-from-the-field/Your-Old-Cell-Phone-Can-Save-Rainforests.html",
@@ -993,7 +980,7 @@ RFCX.press.data = [
 
 { 
     "date": "2014-07-28",
-    "publication": "SpeakEasy",
+    "publication": "WSJ SpeakEasy",
     "author": "Mike Ayers",
     "title": "Neil Young’s New Project: Saving Rainforests With Old Cell Phones",
     "uri": "http://blogs.wsj.com/speakeasy/2014/07/28/neil-young-s-new-project-saving-rainforests-with-old-cell-phones/",
