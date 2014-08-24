@@ -365,17 +365,6 @@ RFCX.press.data = [
     "categories": [""]
   },
 
-{
-    "date": "2014-08-15",
-    "publication": "FUN 107",
-    "author": "Heather Fink",
-    "title": "Recycled Cell Phones Are Used In The Rainforest",
-    "uri": "http://fun107.com/cell-phones-rainforest-recycled/",
-    "bitly": "http://r-f.cx/1t0R1in",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""]
-  },
 
 {
     "date": "2014-07-17",
