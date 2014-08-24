@@ -20,7 +20,7 @@ RFCX.press.data = [
     "publication": "PSFK",
     "author": "Ryan Gerhardt",
     "title": "Smartphones Hung From Trees Alert Rangers To Illegal Logging",
-    "uri": "http://www.psfk.com/2013/06/rainforest-connection-illegal-logging.html#!bIi1To",
+    "uri": "http://www.psfk.com/2013/06/rainforest-connection-illegal-logging.html",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -59,7 +59,7 @@ RFCX.press.data = [
     "publication": "PSFK",
     "author": "Ross Brooks",
     "title": "Discarded Smartphones Upcycled Into Digital Forest Watchdogs",
-    "uri": "http://www.psfk.com/2014/06/upcycled-smartphones-rainforest-protectors.html#!bIiGVi",
+    "uri": "http://www.psfk.com/2014/06/upcycled-smartphones-rainforest-protectors.html",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -163,7 +163,7 @@ RFCX.press.data = [
     "publication": "International Business Times",
     "author": "Karen Wong",
     "title": "iPhone 6 releasing Soon, Use Old Smartphones to Save Rainforest",
-    "uri": "http://au.ibtimes.com/articles/559800/20140721/trees-use-smartphones-iphone-6-release-date.htm#.U_eIKKNe8-8",
+    "uri": "http://au.ibtimes.com/articles/559800/20140721/trees-use-smartphones-iphone-6-release-date.htm",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -185,11 +185,11 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-07-29",
-    "publication": "Libreprensa",
+    "date": "2014-07-28",
+    "publication": "Sunday Express",
     "author": "",
     "title": "Neil Young joins new Kickstarter project to save rainforest",
-    "uri": "http://libreprensa.com/k/san-francisco-based-rainforest-connection/3301914#s/4065827",
+    "uri": "http://www.express.co.uk/news/showbiz/492956/Neil-Young-joins-new-Kickstarter-project-to-save-rainforest",
     "bitly": "",
     "lang": "en",
     "types": ["article"],
@@ -576,7 +576,7 @@ RFCX.press.data = [
 
 {
     "date": "2013-06-09",
-    "publication": "Gentside Decouverte",
+    "publication": "MaxiSciences",
     "author": "Émeline Ferard",
     "title": "Des smartphones-espions pour lutter contre la déforestation en Indonésie",
     "uri": "http://www.maxisciences.com/d%e9forestation/des-smartphones-espions-pour-lutter-contre-la-deforestation-en-indonesie_art29750.html",
