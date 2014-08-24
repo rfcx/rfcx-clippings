@@ -134,7 +134,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-07",
-    "publication": "Tamil Fox",
+    "publication": "Tamil Fox Tech News",
     "author": "Mercedes Wiolette",
     "title": "Smartphones are helpful in saving forests!",
     "uri": "http://www.tamilfox.com/tech-news/smartphones-are-helpful-in-saving-forests/",
@@ -238,7 +238,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-16",
-    "publication": "Huff Post Green",
+    "publication": "Huffington Post Green",
     "author": "Jesse Prentice-Dunn",
     "title": "Fighting Illegal Logging With Your Cell Phone",
     "uri": "http://www.huffingtonpost.com/jesse-prenticedunn/fighting-illegal-logging-_b_5589217.html",
@@ -407,8 +407,8 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-29",
-    "publication": "Howard Stern",
-    "author": "",
+    "publication": "Howard Stern, Sirius XM",
+    "author": "Howard Stern",
     "title": "Rainforest Connection on Howard Stern",
     "uri": "https://soundcloud.com/rainforestcx/20140729-rainforest-connection-on-howard-stern",
     "bitly": "http://r-f.cx/1o5P2FW",
@@ -459,7 +459,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-04",
-    "publication": "BlueWin",
+    "publication": "BlueWin Leben, SwissCom",
     "author": "Marc Steffen",
     "title": "Mit alten Handys gegen illegale Holzfäller",
     "uri": "http://www.bluewin.ch/de/leben/hallo-zukunft/2014/mit-alten-handys-gegen-illegale-holzfaeller.html",
@@ -576,7 +576,7 @@ RFCX.press.data = [
 
 {
     "date": "2013-06-10",
-    "publication": "HuffPost Green",
+    "publication": "Huffington Post Green",
     "author": "Ryan Grenoble",
     "title": "'Rainforest Connection' Aims To Use Cell Phones To Stop Deforestation",
     "uri": "http://www.huffingtonpost.com/2013/06/10/rainforest-connection-cell-phone-deforestation_n_3416288.html",
