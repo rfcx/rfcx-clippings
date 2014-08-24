@@ -138,7 +138,7 @@ RFCX.press.data = [
     "author": "Mercedes Wiolette",
     "title": "Smartphones are helpful in saving forests!",
     "uri": "http://www.tamilfox.com/tech-news/smartphones-are-helpful-in-saving-forests/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1wnb2lE",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -151,7 +151,7 @@ RFCX.press.data = [
     "author": "Evan Wade",
     "title": "The Rainforest Connection Wants You (or Your Old Smartphone, Anyway) to Fight Rainforest Crime",
     "uri": "http://wdc.com/ventito/tech/trending/the-rainforest-connection-wants-you-or-your-old-smartphone-anyway-to-fight-rainforest-crime",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1mDACvY",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -160,11 +160,11 @@ RFCX.press.data = [
 
 {
     "date": "2014-07-21",
-    "publication": "International Business Times",
+    "publication": "Int'l Business Times",
     "author": "Karen Wong",
     "title": "iPhone 6 releasing Soon, Use Old Smartphones to Save Rainforest",
     "uri": "http://au.ibtimes.com/articles/559800/20140721/trees-use-smartphones-iphone-6-release-date.htm",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1wnaVq3",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -177,7 +177,7 @@ RFCX.press.data = [
     "author": "",
     "title": "Neil Young joins new Kickstarter project to save rainforest",
     "uri": "http://www.express.co.uk/news/showbiz/492956/Neil-Young-joins-new-Kickstarter-project-to-save-rainforest",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1BQxsMm",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -190,7 +190,7 @@ RFCX.press.data = [
     "author": "",
     "title": "Rainforest Connection to curb Illegal Logging using Smartphones",
     "uri": "http://veenga.wordpress.com/2014/07/28/rainforest-connection-to-curb-illegal-logging-using-smartphones/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1simR65",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -203,7 +203,7 @@ RFCX.press.data = [
     "author": "Sophie Yeo",
     "title": "Brazil tribe teams up with tech company to save rainforest",
     "uri": "http://www.rtcc.org/2014/07/30/brazil-tribe-teams-up-with-tech-company-to-save-rainforest/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1vyVqaD",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -216,7 +216,7 @@ RFCX.press.data = [
     "author": "Derek Markham",
     "title": "Crowdfunded solar-powered smartphones become rainforest guardians to fight illegal logging and poaching",
     "uri": "http://www.treehugger.com/gadgets/crowdfunded-solar-powered-smartphones-become-rainforest-guardians-stop-illegal-logging-and-poaching.html",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1q8BSYS",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -229,7 +229,7 @@ RFCX.press.data = [
     "author": "Susan Bird",
     "title": "Here’s How We Can Stop Illegal Logging and Poaching on the Spot",
     "uri": "http://www.care2.com/causes/heres-how-we-can-stop-illegal-logging-and-poaching-on-the-spot.html",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1p3oroT",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -242,7 +242,7 @@ RFCX.press.data = [
     "author": "Jesse Prentice-Dunn",
     "title": "Fighting Illegal Logging With Your Cell Phone",
     "uri": "http://www.huffingtonpost.com/jesse-prenticedunn/fighting-illegal-logging-_b_5589217.html",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1noChCU",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -255,7 +255,7 @@ RFCX.press.data = [
     "author": "Daniel Cooper",
     "title": "Anti-poaching campaign needs $100,000 to turn old smartphones into mantraps",
     "uri": "http://www.engadget.com/2014/06/24/rainforest-connection-kickstarter/",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1l4EjfO",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -268,7 +268,7 @@ RFCX.press.data = [
     "author": "Sarah Zhang",
     "title": "Your Old Phone Could Help Eavesdrop on Illegal Rainforest Loggers",
     "uri": "http://gizmodo.com/your-old-phone-could-help-eavesdrop-on-illegal-rainfore-1575266728",
-    "bitly": "",
+    "bitly": "http://r-f.cx/RIz8ES",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
@@ -281,7 +281,7 @@ RFCX.press.data = [
     "author": "",
     "title": "Rainforest Connection on CBC Calgary",
     "uri": "https://soundcloud.com/rainforestcx/20140813-rainforest-connection-on-cbc-calgary",
-    "bitly": "",
+    "bitly": "http://r-f.cx/1zlpUgk",
     "lang": "en",
     "types": ["audio"],
     "categories": [""]
