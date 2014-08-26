@@ -2,6 +2,8 @@ if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { va
 
 RFCX.press.data = [
 
+
+
 {
     "date": "2014-08-08",
     "publication": "Tech Republic",
@@ -9,6 +11,79 @@ RFCX.press.data = [
     "title": "How recycled solar powered phones could save rainforests and change how the tech industry tackles climate change",
     "uri": "http://www.techrepublic.com/article/how-recycled-solar-powered-phones-could-save-rainforests-and-change-how-the-tech-industry-tackles-climate-change/",
     "bitly": "http://r-f.cx/V4R3ac",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+{
+    "date": "2014-07-28",
+    "publication": "WFJA Classic Hits",
+    "author": "",
+    "title": "Neil Young Lends Support to New Kickstarter Campaign Seeking to Save the Rainforest",
+    "uri": "http://www.classichitsandoldies.com/v2/2014/07/28/neil-young-lends-support-to-new-kickstarter-campaign-seeking-to-save-the-rainforest/",
+    "bitly": "http://r-f.cx/1pbYgCt",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+  
+
+{
+    "date": "2014-07-28",
+    "publication": "Philly.com",
+    "author": "Peter Mucha",
+    "title": "Neil Young wants to save rainforests with old cell phones",
+    "uri": "http://www.philly.com/philly/blogs/trending/Neil-Young-wants-to-save-rainforest-with-old-cell-phones.html",
+    "bitly": "http://r-f.cx/1q0VkaZ",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+{
+    "date": "2014-08-09",
+    "publication": "SciDev.net",
+    "author": "Helen Mendes",
+    "title": "Con celulares usados detectan deforestación ilegal",
+    "uri": "http://www.scidev.net/america-latina/biodiversidad/noticias/con-celulares-usados-detectan-deforestaci-n-ilegal.html",
+    "bitly": "http://r-f.cx/1pbWtgI",
+    "lang": "es",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+{
+    "date": "2014-07-28",
+    "publication": "Exclaim.ca",
+    "author": "Gregory Adams",
+    "title": "Neil Young Lends Support to New Smartphone Technology Aiming to Help Save the Rainforest",
+    "uri": "http://exclaim.ca/News/neil_young_lends_support_to_new_smartphone_technology_aiming_to_help_save_rainforest",
+    "bitly": "http://r-f.cx/1BXTYms",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+{
+    "date": "2014-07-28",
+    "publication": "Music Times",
+    "author": "Kyle Dowling",
+    "title": "Neil Young Uses Kickstarter To Save The Rainforest, Teams Up With ‘Rainforest Connection’",
+    "uri": "http://www.musictimes.com/articles/8049/20140728/neil-young-uses-kickstarter-to-save-the-rainforest-teams-up-with-rainforest-connection.htm",
+    "bitly": "http://r-f.cx/1pBrj1y",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""]
+  },
+
+{
+    "date": "2014-07-28",
+    "publication": "FDRMX",
+    "author": "",
+    "title": "Neil Young to Save Green Rainforest with Green of Kickstarter",
+    "uri": "http://fdrmx.com/neil-young-save-green-rainforest-green-kickstarter/",
+    "bitly": "http://r-f.cx/YW2KSU",
     "lang": "en",
     "types": ["article"],
     "categories": [""]
