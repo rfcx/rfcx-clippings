@@ -562,7 +562,7 @@ RFCX.press.data = [
     "date": "2014-07-08",
     "publication": "Tumotech",
     "author": "Chuck Tesla",
-    "title": "Recycling cell phones for use as deforetation detection devices",
+    "title": "Recycling cell phones for use as deforestation detection devices",
     "uri": "http://www.tumotech.com/2014/07/08/recycling-cell-phones-for-use-as-deforestation-detection-devices/",
     "bitly": "http://r-f.cx/1lV9fZK",
     "lang": "en",
@@ -580,6 +580,19 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1zncNhK",
     "lang": "en",
     "types": ["article"],
+    "categories": [""]
+  },
+
+
+{
+    "date": "2014-08-26",
+    "publication": "Radio France Internationale",
+    "author": "Michel Arseneault",
+    "title": "If a tree falls in a forest in Cameroon",
+    "uri": "https://soundcloud.com/radiofranceinternationale/forestry-logging-cameroon",
+    "bitly": "http://r-f.cx/1qKRG1c",
+    "lang": "en",
+    "types": ["audio"],
     "categories": [""]
   },
 
