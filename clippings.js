@@ -13,7 +13,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/V4R3ac",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 {
@@ -25,7 +26,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pbYgCt",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
   
 
@@ -38,7 +40,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1q0VkaZ",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 {
@@ -50,7 +53,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pbWtgI",
     "lang": "es",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 {
@@ -62,7 +66,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1BXTYms",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 {
@@ -74,7 +79,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pBrj1y",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 {
@@ -86,7 +92,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/YW2KSU",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -99,7 +106,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1nozIR6",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -112,7 +120,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1sii9Fw",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -125,7 +134,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1ojpXU2",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -138,7 +148,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1vaxBse",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -151,7 +162,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1vaxBZi",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -164,7 +176,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1l4CEa1",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -177,7 +190,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/VJnivS",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -190,7 +204,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/XIGoUG",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -203,7 +218,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1BQv0FF",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -216,7 +232,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1wnb2lE",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -229,7 +246,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1mDACvY",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -242,7 +260,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1wnaVq3",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -255,7 +274,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1BQxsMm",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -268,7 +288,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1simR65",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -281,7 +302,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1vyVqaD",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -294,7 +316,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1q8BSYS",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -307,7 +330,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1p3oroT",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -320,7 +344,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1noChCU",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -333,7 +358,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1l4EjfO",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -346,7 +372,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/RIz8ES",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -359,7 +386,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1zlpUgk",
     "lang": "en",
     "types": ["audio"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -372,7 +400,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1qLzXeL",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -385,7 +414,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1l4AQ0V",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -398,7 +428,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1m5ubTM",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -411,7 +442,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1AJnBXc",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -424,7 +456,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1t0R1in",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -437,7 +470,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1tTiYK0",
     "lang": "zh",
     "types": ["article","video"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -450,7 +484,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1n70sJF",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -463,7 +498,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/VMtWkI",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -476,7 +512,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1thMCaG",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -489,7 +526,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1o5P2FW",
     "lang": "en",
     "types": ["audio"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -502,7 +540,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1B8GDHu",
     "lang": "sv",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -515,7 +554,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1vp4UoI",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -528,7 +568,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1kAYUZ5",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -541,7 +582,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1jsPoXz",
     "lang": "de",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -554,7 +596,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1nfASlr",
     "lang": "en",
     "types": ["article","video"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -567,7 +610,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1lV9fZK",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -580,7 +624,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1zncNhK",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -593,7 +638,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1qKRG1c",
     "lang": "en",
     "types": ["audio"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -606,7 +652,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1lXezAs",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -619,7 +666,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1qJbAfL",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -632,7 +680,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/10d2NqF",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -645,7 +694,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/15aDkzQ",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -658,7 +708,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/17Oxjgj",
     "lang": "fr",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -671,7 +722,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/11abqoF",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -684,7 +736,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1ciMuiP",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -697,7 +750,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1vyP6jj",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -710,7 +764,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/14mb7cc",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -723,7 +778,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/14ljvoE",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -737,7 +793,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1cmAdtu",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -750,7 +807,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1zd7i23",
     "lang": "en",
     "types": ["video"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -763,7 +821,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1qK1Aov",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -776,7 +835,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1wsoYr5",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -789,7 +849,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1tt2tnT",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -802,7 +863,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1mEjhDc",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -815,7 +877,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1nbsByK",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -828,7 +891,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pXy27Y",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -841,7 +905,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1ov37Mo",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -854,7 +919,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/TEriMZ",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -867,7 +933,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1qstKEG",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -880,7 +947,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1sJB7cJ",
     "lang": "fr",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -893,7 +961,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1qLavpO",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -906,7 +975,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/Tyx9DN",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -919,7 +989,8 @@ RFCX.press.data = [
     "bitly": "http://bit.ly/129tiKj",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -932,7 +1003,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/12Nuhqn",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -945,7 +1017,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1sigkbK",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -958,7 +1031,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/13hdcpm",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -971,7 +1045,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/146RbqI",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -984,7 +1059,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/146R1zG",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -997,7 +1073,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1wn6ICL",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1010,7 +1087,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1q9J5IX",
     "lang": "es",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1023,7 +1101,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1rsCSe3",
     "lang": "fr",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1036,7 +1115,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1AJpVNN",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1049,7 +1129,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1tsD1fW",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1062,7 +1143,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1wn73Fx",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1075,7 +1157,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1rsCV9L",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1089,7 +1172,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1oFrtQd",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 {
@@ -1101,7 +1185,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1po65UC",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1114,7 +1199,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1t07xix",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1127,7 +1213,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1njk35H",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1140,7 +1227,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1p1R5H9",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1153,7 +1241,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1p1R31Z",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1166,7 +1255,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1tzNDYL",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1179,7 +1269,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pmteqM",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1192,7 +1283,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1llQVQ9",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1205,7 +1297,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1llQVQ9",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1218,7 +1311,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pNE199",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1231,7 +1325,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1xN7STF",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1244,7 +1339,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1s5zySY",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1257,7 +1353,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1BKNbfK",
     "lang": "fr",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1270,7 +1367,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1nOIJpV",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1283,7 +1381,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1zd4v96",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1296,7 +1395,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1tsUIuR",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1309,7 +1409,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1lpwWjz",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1322,7 +1423,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/YPoAYh",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1335,7 +1437,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1nC7o2v",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1348,7 +1451,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1lpwZMk",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1361,7 +1465,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pUFuyE",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1374,7 +1479,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1vyQRgv",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1387,7 +1493,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pUFvTh",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1400,7 +1507,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/VMul6E",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
  
  
@@ -1413,7 +1521,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1q8zyAT",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
   
   
@@ -1426,7 +1535,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1nozv0h",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
   
   {
@@ -1438,7 +1548,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1o53igZ",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1451,7 +1562,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1q8zBg9",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
   
   
@@ -1464,7 +1576,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1qCenVf",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1477,7 +1590,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1pLpVJH",
     "lang": "en",
     "types": ["article","audio"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1490,7 +1604,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1oIF89B",
     "lang": "en",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
 
@@ -1503,7 +1618,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/XAHly5",
     "lang": "de",
     "types": ["video"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
   { 
@@ -1515,7 +1631,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1rraEgo",
     "lang": "en",
     "types": ["video"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
   { 
@@ -1527,7 +1644,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/XAFfOS",
     "lang": "fr",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   },
 
   { 
@@ -1539,7 +1657,8 @@ RFCX.press.data = [
     "bitly": "http://r-f.cx/1sV0s2U",
     "lang": "fr",
     "types": ["article"],
-    "categories": [""]
+    "categories": [""],
+    "visibility": "1"
   }
 
 ];
