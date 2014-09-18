@@ -4,6 +4,34 @@ RFCX.press.data = [
 
 
 
+http://www.marsdd.com/news-and-insights/rainforest-connection-transforming-old-smartphones-deforestation-detection-devices/
+
+{
+    "date": "2014-09-18",
+    "publication": "MaRS Blog",
+    "author": "Sarah Aspler",
+    "title": "Rainforest Connection: Transforming old smartphones into deforestation detection devices",
+    "uri": "http://www.marsdd.com/news-and-insights/rainforest-connection-transforming-old-smartphones-deforestation-detection-devices/",
+    "bitly": "http://r-f.cx/XNaiqh",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
+{
+    "date": "2014-07-08",
+    "publication": "Fast Co.Exist",
+    "author": "Adele Peters",
+    "title": "Put Your Old Phone Out To Pasture As A Forest Ranger In The Rainforest",
+    "uri": "http://www.fastcoexist.com/3032354/put-your-old-phone-out-to-pasture-as-a-forest-ranger-in-the-rainforest",
+    "bitly": "http://r-f.cx/1phctbK",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
 {
     "date": "2014-08-08",
     "publication": "Tech Republic",
