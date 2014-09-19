@@ -4,8 +4,6 @@ RFCX.press.data = [
 
 
 
-http://www.marsdd.com/news-and-insights/rainforest-connection-transforming-old-smartphones-deforestation-detection-devices/
-
 {
     "date": "2014-09-18",
     "publication": "MaRS Blog",
@@ -1217,6 +1215,19 @@ http://www.marsdd.com/news-and-insights/rainforest-connection-transforming-old-s
     "visibility": "1"
   },
 
+
+{
+    "date": "2014-09-08",
+    "publication": "O Globo",
+    "author": "Barbara Marcolini",
+    "title": "'Cortar árvores é a segunda profissão mais antiga'",
+    "uri": "http://www.scribd.com/doc/240277425/O-Globo-Pagina-2-Rio-de-Janeiro",
+    "bitly": "http://r-f.cx/1mkNr0W",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
 
 {
     "date": "2014-08-08",
