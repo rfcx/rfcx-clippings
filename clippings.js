@@ -3,6 +3,18 @@ if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { va
 RFCX.press.data = [
 
 
+{
+    "date": "2014-09-26",
+    "publication": "Real Business",
+    "author": "Emily Scott",
+    "title": "What Should You Do With Your Outdated Technology?",
+    "uri": "http://www.realbusiness.com/2014/09/big-ideas/what-should-you-do-with-your-extinct-technology/",
+    "bitly": "http://r-f.cx/1t2TvrJ",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
 
 {
     "date": "2014-09-18",
