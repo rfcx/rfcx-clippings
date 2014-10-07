@@ -4,6 +4,32 @@ RFCX.press.data = [
 
 
 {
+    "date": "2014-09-21",
+    "publication": "ShareAmerica",
+    "author": "ShareAmerica",
+    "title": "Mobile phones can surf the Internet, take photos, play music and... protect forests",
+    "uri": "https://share.america.gov/cell-phones-can-surf-internet-take-photos-play-music-protect-forests/",
+    "bitly": "http://r-f.cx/10LdNzl",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
+{
+    "date": "2014-09-21",
+    "publication": "Liberation",
+    "author": "Pierre-Henri Allain",
+    "title": "Pour sauver la forêt téléphone, mission",
+    "uri": "http://www.liberation.fr/economie/2014/09/21/pour-sauver-la-foret-telephone-mission_1105445",
+    "bitly": "http://r-f.cx/1wX9Zp4",
+    "lang": "fr",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
+{
     "date": "2014-09-26",
     "publication": "Real Business",
     "author": "Emily Scott",
