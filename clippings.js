@@ -16,6 +16,21 @@ RFCX.press.data = [
     "visibility": "1"
   },
 
+
+{
+    "date": "2014-09-30",
+    "publication": "Networked Society",
+    "author": "Ericsson",
+    "title": "Capturing the Networked Society - Case 51 Rainforest Connection",
+    "uri": "https://www.youtube.com/watch?v=zY5fK0dvLrA",
+    "bitly": "http://r-f.cx/ZsQTLX",
+    "lang": "en",
+    "types": ["video"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
+
 {
     "date": "2014-09-21",
     "publication": "Libération.fr",
