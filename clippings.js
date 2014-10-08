@@ -4,7 +4,7 @@ RFCX.press.data = [
 
 
 {
-    "date": "2014-09-21",
+    "date": "2014-10-06",
     "publication": "ShareAmerica",
     "author": "ShareAmerica",
     "title": "Mobile phones can surf the Internet, take photos, play music and... protect forests",
@@ -18,7 +18,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-09-21",
-    "publication": "Liberation",
+    "publication": "Libération.fr",
     "author": "Pierre-Henri Allain",
     "title": "Pour sauver la forêt téléphone, mission",
     "uri": "http://www.liberation.fr/economie/2014/09/21/pour-sauver-la-foret-telephone-mission_1105445",
