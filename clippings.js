@@ -19,7 +19,7 @@ RFCX.press.data = [
 
 {
     "date": "2014-09-30",
-    "publication": "Networked Society",
+    "publication": "Ericsson, Networked Society",
     "author": "Ericsson",
     "title": "Capturing the Networked Society - Case 51 Rainforest Connection",
     "uri": "https://www.youtube.com/watch?v=zY5fK0dvLrA",
