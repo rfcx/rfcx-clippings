@@ -3,6 +3,34 @@ if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { va
 RFCX.press.data = [
 
 
+
+
+{
+    "date": "2014-10-14",
+    "publication": "TechRepublic",
+    "author": "Lyndsey Gilpin",
+    "title": "40 under 40: Real difference makers in tech and business",
+    "uri": "http://www.techrepublic.com/article/40-under-40-real-difference-makers-in-tech-and-business/",
+    "bitly": "http://r-f.cx/1D2BoHv",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
+{
+    "date": "2014-10-17",
+    "publication": "Socialter",
+    "author": "Hélène Seingier",
+    "title": "Born Again",
+    "uri": "https://www.scribd.com/doc/243363365/",
+    "bitly": "http://r-f.cx/1of2p9G",
+    "lang": "fr",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
 {
     "date": "2014-10-06",
     "publication": "ShareAmerica",
