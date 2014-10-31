@@ -5,6 +5,21 @@ RFCX.press.data = [
 
 
 
+
+
+{
+    "date": "2014-10-14",
+    "publication": "Die Reale Welt",
+    "author": "Maren Urner",
+    "title": "Alte Smartphones gegen illegale Wald-Rodung: Crowdfunding-Projekt spürt Holzfäller auf",
+    "uri": "https://www.die-reale-welt.de/natuerlich/alte-handys-gegen-illegale-wald-rodung/",
+    "bitly": "http://r-f.cx/1pch5Xw",
+    "lang": "de",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
 {
     "date": "2014-10-14",
     "publication": "TechRepublic",
