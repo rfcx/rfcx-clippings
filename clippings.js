@@ -6,6 +6,19 @@ RFCX.press.data = [
 
 
 
+{
+    "date": "2015-03-02",
+    "publication": "IEEE Spectrum",
+    "author": "Elise Ackerman",
+    "title": "Topher White: Repurposing Cellphones to Defend the Rain Forest",
+    "uri": "http://spectrum.ieee.org/geek-life/profiles/topher-white-repurposing-cellphones-to-defend-the-rain-forest",
+    "bitly": "http://r-f.cx/192Gf3V",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
 
 {
     "date": "2014-10-14",
