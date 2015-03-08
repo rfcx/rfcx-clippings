@@ -3,7 +3,18 @@ if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { va
 RFCX.press.data = [
 
 
-
+{
+    "date": "2015-03-01",
+    "publication": "TED.com",
+    "author": "TEDxCERN",
+    "title": "What can save the rainforest? Your used cell phone",
+    "uri": "http://www.ted.com/talks/topher_white_what_can_save_the_rainforest_your_used_cell_phone",
+    "bitly": "http://r-f.cx/181Jac6",
+    "lang": "en",
+    "types": ["video"],
+    "categories": [""],
+    "visibility": "1"
+  },
 
 
 {
