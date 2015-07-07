@@ -1,6 +1,70 @@
 if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { var RFCX = { press: {} }; }
 
+// https://robertmcgrath.wordpress.com/2015/03/09/chainsaws-beware/
+// http://sociale.corriere.it/gli-smartphone-usati-per-salvare-la-foresta-pluviale/
+// http://www.spiritonstage.com/topher-whites-ted-talk-and-why-its-great/
+// https://sustainingpeople.wordpress.com/2015/03/13/what-can-save-the-rainforests-your-used-mobile-phone/
+// https://philanthropy.com/article/Tech-s-Power-for-Good/190451/
+// http://news.nationalgeographic.com/2015/07/150706-wildlife-crime-technology-poaching-endangered-animals/
+// http://beautifulnow.is/bnow/beautiful-rainforest-connections-happening-now
+
 RFCX.press.data = [
+
+
+{
+    "date": "2015-XX-XX",
+    "publication": "",
+    "author": "",
+    "title": "",
+    "uri": "http://www.futuremag.fr/interview/lutter-contre-la-deforestation-smartphones-recycles-rainforest-connection-topher-white-amazonie-tembe",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+},
+
+
+
+{
+    "date": "2015-04-05",
+    "publication": "Independent.ie",
+    "author": "Sarah McCabe",
+    "title": "Activists use Dublin company to top up phones in Amazon",
+    "uri": "http://www.independent.ie/business/activists-use-dublin-company-to-top-up-phones-in-amazon-31118286.html",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+},
+
+
+{
+    "date": "2015-03-11",
+    "publication": "Ding.com",
+    "author": "",
+    "title": "Trees That Can Talk",
+    "uri": "https://www.ding.com/about-media-centre/trees-that-can-talk",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
+{
+    "date": "2014-08-06",
+    "publication": "The Ground_Up Project",
+    "author": "Michaelle Bwohl",
+    "title": "The Trees Have Ears",
+    "uri": "http://groundupproject.net/2014/08/06/the-trees-have-ears/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
 
 
 {
