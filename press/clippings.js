@@ -13,6 +13,7 @@ if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { va
 // https://www.irishtimes.com/news/impact-journalism-day/the-rainforest-is-calling-with-its-own-phone-1.2257356
 // http://www.chinadaily.com.cn/cndy/2015-06/20/content_21059156.htm
 // http://impactjournalismday.com/partners/
+// http://impactjournalismday.com/partners/
 // http://news.nationalgeographic.com/2015/07/150706-wildlife-crime-technology-poaching-endangered-animals/
 // http://beautifulnow.is/bnow/beautiful-rainforest-connections-happening-now
 
