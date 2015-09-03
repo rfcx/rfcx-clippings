@@ -1,6 +1,50 @@
 if ( (typeof RFCX === "undefined") || (typeof RFCX.press === "undefined") ) { var RFCX = { press: {} }; }
 
+// https://robertmcgrath.wordpress.com/2015/03/09/chainsaws-beware/
+// http://sociale.corriere.it/gli-smartphone-usati-per-salvare-la-foresta-pluviale/
+// http://www.spiritonstage.com/topher-whites-ted-talk-and-why-its-great/
+// https://sustainingpeople.wordpress.com/2015/03/13/what-can-save-the-rainforests-your-used-mobile-phone/
+// https://philanthropy.com/article/Tech-s-Power-for-Good/190451/
+// http://ablorg.tumblr.com/post/90745529097/heres-how-we-can-stop-illegal-logging-and
+
+// http://impactjournalismday.com/story/the-rainforest-is-calling/
+// https://politiken.dk/udland/ECE2725621/ngo-gruppe-udstyrer-traeerne-i-amazonas-med-smartphones/
+// http://www.lanacion.com.ar/1803234-sin-titulo
+// https://www.irishtimes.com/news/impact-journalism-day/the-rainforest-is-calling-with-its-own-phone-1.2257356
+// http://www.chinadaily.com.cn/cndy/2015-06/20/content_21059156.htm
+// http://impactjournalismday.com/partners/
+
 RFCX.press.data = [
+
+
+
+
+
+{
+    "date": "2015-03-11",
+    "publication": "Ding.com",
+    "author": "",
+    "title": "Trees That Can Talk",
+    "uri": "https://www.ding.com/about-media-centre/trees-that-can-talk",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
+
+{
+    "date": "2014-08-06",
+    "publication": "The Ground_Up Project",
+    "author": "Michaelle Bwohl",
+    "title": "The Trees Have Ears",
+    "uri": "http://groundupproject.net/2014/08/06/the-trees-have-ears/",
+    "bitly": "",
+    "lang": "en",
+    "types": ["article"],
+    "categories": [""],
+    "visibility": "1"
+  },
 
 
 {
