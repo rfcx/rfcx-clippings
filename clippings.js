@@ -22,48 +22,6 @@ RFCX.press.data = [
 
 
 {
-    "date": "2015-03-11",
-    "publication": "Ding.com",
-    "author": "",
-    "title": "Trees That Can Talk",
-    "uri": "https://www.ding.com/about-media-centre/trees-that-can-talk",
-    "bitly": "",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""],
-    "visibility": "1"
-  },
-
-{
-    "date": "2014-08-06",
-    "publication": "The Ground_Up Project",
-    "author": "Michaelle Bwohl",
-    "title": "The Trees Have Ears",
-    "uri": "http://groundupproject.net/2014/08/06/the-trees-have-ears/",
-    "bitly": "",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""],
-    "visibility": "1"
-  },
-
-
-{
-    "date": "2015-XX-XX",
-    "publication": "",
-    "author": "",
-    "title": "",
-    "uri": "http://www.futuremag.fr/interview/lutter-contre-la-deforestation-smartphones-recycles-rainforest-connection-topher-white-amazonie-tembe",
-    "bitly": "",
-    "lang": "en",
-    "types": ["article"],
-    "categories": [""],
-    "visibility": "1"
-},
-
-
-
-{
     "date": "2015-04-05",
     "publication": "Independent.ie",
     "author": "Sarah McCabe",
